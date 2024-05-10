@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/undrthegraveyard/Social-links-profile)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://undrthegraveyard.github.io/Social-links-profile/)
 
 ### Built with
 
